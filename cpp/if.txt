@@ -1,0 +1,6 @@
+program { 
+
+if args then { return println ( Hello ) }
+
+}
+
